@@ -17,4 +17,4 @@ Transport Management System Made by Prajwal Thote
     python manage.py createsuperuser
 
 6. Run Project
-    python manage.py runserver
+    python manage.py runserver"# transport" 
